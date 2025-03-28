@@ -36,7 +36,7 @@
 </div>
 
 
-- 🔭 I’m currently working on an App to manage student dormitories as a project for one of my courses.
+- 🔭 I’m currently working on an app to manage student dormitories as a project for one of my courses.
 <!--
 **qmacdom/qmacdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
